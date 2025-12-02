@@ -27,6 +27,23 @@
           "font_color": null,
           "bg_color": null,
           "logo": null
+        },
+        {
+          "name": "test",
+          "enabled": true,
+          "order": 3,
+          "folder": "test",
+          "pattern": null,
+          "aspect_ratio": null,
+          "color": null,
+          "font_color": null,
+          "bg_color": null,
+          "logo": null,
+          "side_text": null,
+          "description": null,
+          "ai_title": null,
+          "text_title": null,
+          "sticker": null
         }
       ]
     },
@@ -533,5 +550,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-01T17:26:35.411646"
+  "last_updated": "2025-12-01T17:30:26.134450"
 }
