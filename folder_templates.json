@@ -529,26 +529,9 @@
           "ai_title": null,
           "text_title": null,
           "sticker": true
-        },
-        {
-          "name": "TEST",
-          "enabled": true,
-          "order": 8,
-          "folder": null,
-          "pattern": "TEST",
-          "aspect_ratio": null,
-          "color": null,
-          "font_color": null,
-          "bg_color": null,
-          "logo": null,
-          "side_text": null,
-          "description": null,
-          "ai_title": null,
-          "text_title": null,
-          "sticker": true
         }
       ]
     }
   },
-  "last_updated": "2025-12-01T20:36:15.434189"
+  "last_updated": "2025-12-01T20:43:12.877133"
 }
