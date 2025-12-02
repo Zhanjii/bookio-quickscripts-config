@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "activation_code": "bookio2024",
+  "activation_code": "bookio2026",
   "min_app_version": "6.0.2",
   "block_message": "This app version is no longer supported. Please contact your administrator for the latest version.",
   "activation_prompt": "Enter your activation code to use Book.io QuickScripts:",
