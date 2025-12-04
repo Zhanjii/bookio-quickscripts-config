@@ -1,0 +1,117 @@
+{
+  "description": "OpenAI model configuration for Book.io QuickScripts. Edit this file to add/remove models or adjust token limits.",
+  "last_updated": "2025-12-03",
+  "default_model": "gpt-3.5-turbo-0125",
+  "models": {
+    "gpt-4o": {
+      "token_limit": 128000,
+      "description": "GPT-4o - Latest multimodal model",
+      "enabled": true
+    },
+    "gpt-4o-mini": {
+      "token_limit": 128000,
+      "description": "GPT-4o Mini - Fast and cost-effective",
+      "enabled": true
+    },
+    "gpt-4-turbo": {
+      "token_limit": 128000,
+      "description": "GPT-4 Turbo - High capability with vision",
+      "enabled": true
+    },
+    "gpt-4-turbo-preview": {
+      "token_limit": 128000,
+      "description": "GPT-4 Turbo Preview - 128K context",
+      "enabled": true
+    },
+    "gpt-4-1106-preview": {
+      "token_limit": 128000,
+      "description": "GPT-4 Turbo - November 2023 version",
+      "enabled": true
+    },
+    "gpt-4-0125-preview": {
+      "token_limit": 128000,
+      "description": "GPT-4 Turbo - January 2024 version",
+      "enabled": true
+    },
+    "gpt-4-vision-preview": {
+      "token_limit": 128000,
+      "description": "GPT-4 with vision capabilities",
+      "enabled": true
+    },
+    "gpt-4": {
+      "token_limit": 8192,
+      "description": "GPT-4 - Most capable, 8K context",
+      "enabled": true
+    },
+    "gpt-4-32k": {
+      "token_limit": 32768,
+      "description": "GPT-4 - Extended 32K context",
+      "enabled": true
+    },
+    "gpt-4-0613": {
+      "token_limit": 8192,
+      "description": "GPT-4 - June 2023 snapshot",
+      "enabled": false
+    },
+    "gpt-4-32k-0613": {
+      "token_limit": 32768,
+      "description": "GPT-4 32K - June 2023 snapshot",
+      "enabled": false
+    },
+    "gpt-4-0314": {
+      "token_limit": 8192,
+      "description": "GPT-4 - March 2023 snapshot (deprecated)",
+      "enabled": false
+    },
+    "gpt-4-32k-0314": {
+      "token_limit": 32768,
+      "description": "GPT-4 32K - March 2023 snapshot (deprecated)",
+      "enabled": false
+    },
+    "gpt-3.5-turbo": {
+      "token_limit": 16385,
+      "description": "GPT-3.5 Turbo - Standard model",
+      "enabled": true
+    },
+    "gpt-3.5-turbo-0125": {
+      "token_limit": 16385,
+      "description": "GPT-3.5 Turbo - Latest, cost-effective",
+      "enabled": true
+    },
+    "gpt-3.5-turbo-1106": {
+      "token_limit": 16385,
+      "description": "GPT-3.5 Turbo - November 2023 version",
+      "enabled": true
+    },
+    "gpt-3.5-turbo-16k": {
+      "token_limit": 16385,
+      "description": "GPT-3.5 Turbo - Extended 16K context",
+      "enabled": true
+    },
+    "gpt-3.5-turbo-0613": {
+      "token_limit": 4097,
+      "description": "GPT-3.5 Turbo - June 2023 snapshot",
+      "enabled": false
+    },
+    "gpt-3.5-turbo-16k-0613": {
+      "token_limit": 16385,
+      "description": "GPT-3.5 Turbo 16K - June 2023 snapshot",
+      "enabled": false
+    },
+    "gpt-3.5-turbo-0301": {
+      "token_limit": 4097,
+      "description": "GPT-3.5 Turbo - March 2023 snapshot (deprecated)",
+      "enabled": false
+    },
+    "text-davinci-003": {
+      "token_limit": 4097,
+      "description": "Legacy Davinci model (deprecated)",
+      "enabled": false
+    },
+    "text-davinci-002": {
+      "token_limit": 4097,
+      "description": "Legacy Davinci model (deprecated)",
+      "enabled": false
+    }
+  }
+}
