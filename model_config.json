@@ -4,7 +4,7 @@
   "default_model": "gpt-3.5-turbo-0125",
   "models": {
     "gpt-4o": {
-      "token_limit": 28000,
+      "token_limit": 128000,
       "description": "GPT-4o - Latest multimodal model",
       "enabled": true
     },
