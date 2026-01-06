@@ -6,5 +6,11 @@
   "activation_prompt": "Enter your activation code to use Book.io QuickScripts:",
   "invalid_code_message": "Invalid activation code. Please check with your administrator.",
   "success_message": "Activation successful! Welcome to Book.io QuickScripts.",
-  "last_updated": "2025-12-02T10:00:00Z"
+  "last_updated": "2025-01-05T16:00:00Z",
+
+  "error_reporting": {
+    "email": "zhanji@book.io",
+    "enabled": true,
+    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
+  }
 }
