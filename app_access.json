@@ -12,5 +12,10 @@
     "email": "zhanji@book.io",
     "enabled": true,
     "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
-  }
+  },
+
+  "latest_version": "6.0.2",
+  "download_url_mac": "https://drive.google.com/uc?export=download&id=1qzT6qSqjMETXv_ArV_Uywohsv1P6y_P1",
+  "download_url_win": "https://drive.google.com/uc?export=download&id=14maSfg-EN_QAiXIlT17gJhdBmvvZGvbc",
+  "release_notes": "Version 6.0.2 - Current stable release"
 }
