@@ -6,7 +6,7 @@
   "activation_prompt": "Enter your activation code to use Book.io QuickScripts:",
   "invalid_code_message": "Invalid activation code. Please check with your administrator.",
   "success_message": "Activation successful! Welcome to Book.io QuickScripts.",
-  "last_updated": "2025-01-05T16:00:00Z",
+  "last_updated": "2026-01-07T23:30:00Z",
 
   "error_reporting": {
     "email": "zhanji@book.io",
@@ -14,8 +14,8 @@
     "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
   },
 
-  "latest_version": "6.0.2",
+  "latest_version": "6.0.3",
   "download_url_mac": "https://drive.google.com/uc?export=download&id=1qzT6qSqjMETXv_ArV_Uywohsv1P6y_P1",
   "download_url_win": "https://drive.google.com/uc?export=download&id=14maSfg-EN_QAiXIlT17gJhdBmvvZGvbc",
-  "release_notes": "Version 6.0.2 - Current stable release"
+  "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs"
 }
