@@ -11,10 +11,10 @@
     "enabled": true,
     "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
   },
-  "latest_version": "6.0.3",
+  "latest_version": "6.0.4",
   "download_url_mac": "gAAAAABpbt_rTWO-rG05Dvd_ROUWlOdvSL92Xh86Rp4Ym74upQZcooHm758n9SaML3M2nso1LMmq3HXlb_oKwWSnezsxd-5tdZAZTFGgm2HIOOW-WSabYNHdrtM4W03ubt5nw910FO6n1EpOLIMxzA-84yD4ceBArIYCT2BJJkjBw8ODudFaHrXaeqphNVsbKp9qGnzP-n3U",
   "download_url_win": "gAAAAABpbt_r9KZuqrZby1PdCC4z24SjMUgXNMSkECTzdQ40HZWIzMz2NqwfIkipagJxYq43F0euO4tlla0wU4iezI62ffePuaMrpff7ncLw3s9ykoSTBQUV8Wti8md0Jn1_We8ZDq7u2oApR9SmXB3n-SP2xnP5_Y7DelEhXKSo4uXZKonaXBOZuPUHzLTf0W7PH7zeMWKs",
-  "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
+  "release_notes": "Version 6.0.4 Fixed bugs",
   "pin_hash": "394dd9defc10bde341b3beda4bbb4bcfa1c0fa10cc5fd175fdfba5a2ef58b1e9",
   "pin_salt": "ymSBRK/FkxoWWKGyzoTHNA==",
   "encryption_salt": "cMkCTJdJMqhfDm5ZmBpagrNHLVVYUM2dwFKoRIg6nqg="
