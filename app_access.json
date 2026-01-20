@@ -7,16 +7,15 @@
   "success_message": "Activation successful! Welcome to Book.io QuickScripts.",
   "last_updated": "2026-01-07T23:30:00Z",
   "error_reporting": {
-    "email": null,
+    "email": "gAAAAABpbt_rid0LT7u64zfZ4QsUinAdGpNG_jNAr2XVXR-YNoAEXGjfbuecNP3meY4Tma1LVCmRwWx6b5SGkGD42VdoDrLEIA==",
     "enabled": true,
-    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI=",
-    "email_encrypted": "gAAAAABpbtEET5uZH0vtx_n1m8wkIWRhH_Ih90-pilIgFrkZ3S5DHcmmtTM-WdE-JB62bBO50PH0VeDLB3FzxO7IEX_FG6U4Ww=="
+    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
   },
   "latest_version": "6.0.3",
-  "download_url_mac": "gAAAAABpbtkIpFIPNowWuOwF4sHM_ARuE7twdGNh9a2QVo47FY8dfxttBlPvOHAcCyDDfJrCcUTytHhbSmoLQkIzFG56iz1LfH0uBsyJ9FETsaq51nB325Fjg-mYr2dG86by-5vshcdtJkxtKEjDgMn3YesiR55wU-1sRVfGPEvP9gg6iZY11dnfVYFTmlAtVmgstqUOjJR2",
-  "download_url_win": "gAAAAABpbtkIBmwH2mWaX2cZtf5o11zdNnupyhe1Ug80UphYcjnRleMHG1V0-oV58gvtN4emO7f-y3lVR4cYIrREYjwLG04ENA0su4uHi5cCeAf5IQl_ld9sz_AfWzNzXZ1d1aou_GD8Gc_M3bnDH8fHnlC81rctWutQQqU2S3HT1pjFZobbIxM2GYUDCJhmx1KowJODz43S",
+  "download_url_mac": "gAAAAABpbt_rTWO-rG05Dvd_ROUWlOdvSL92Xh86Rp4Ym74upQZcooHm758n9SaML3M2nso1LMmq3HXlb_oKwWSnezsxd-5tdZAZTFGgm2HIOOW-WSabYNHdrtM4W03ubt5nw910FO6n1EpOLIMxzA-84yD4ceBArIYCT2BJJkjBw8ODudFaHrXaeqphNVsbKp9qGnzP-n3U",
+  "download_url_win": "gAAAAABpbt_r9KZuqrZby1PdCC4z24SjMUgXNMSkECTzdQ40HZWIzMz2NqwfIkipagJxYq43F0euO4tlla0wU4iezI62ffePuaMrpff7ncLw3s9ykoSTBQUV8Wti8md0Jn1_We8ZDq7u2oApR9SmXB3n-SP2xnP5_Y7DelEhXKSo4uXZKonaXBOZuPUHzLTf0W7PH7zeMWKs",
   "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
-  "pin_hash": "c7a145c9156ade1a83c12c0fd5366bd1999727bf06983a03ceb1b6bf3049d462",
-  "pin_salt": "ntW53CHWIfsH8ARsA+HVKw==",
-  "encryption_salt": "5R+99ERHoVQpbeIPS4C6zmI0YdTj+6OBBQLxVUT5gVk="
+  "pin_hash": "394dd9defc10bde341b3beda4bbb4bcfa1c0fa10cc5fd175fdfba5a2ef58b1e9",
+  "pin_salt": "ymSBRK/FkxoWWKGyzoTHNA==",
+  "encryption_salt": "cMkCTJdJMqhfDm5ZmBpagrNHLVVYUM2dwFKoRIg6nqg="
 }
