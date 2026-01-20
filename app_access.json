@@ -1,6 +1,5 @@
 {
   "enabled": true,
-  "activation_code": null,
   "min_app_version": "6.0.2",
   "block_message": "This app version is no longer supported. Please contact your administrator for the latest version.",
   "activation_prompt": "Enter your activation code to use Book.io QuickScripts:",
@@ -14,12 +13,10 @@
     "email_encrypted": "gAAAAABpbtEET5uZH0vtx_n1m8wkIWRhH_Ih90-pilIgFrkZ3S5DHcmmtTM-WdE-JB62bBO50PH0VeDLB3FzxO7IEX_FG6U4Ww=="
   },
   "latest_version": "6.0.3",
-  "download_url_mac": null,
-  "download_url_win": null,
+  "download_url_mac": "gAAAAABpbtTLwMRruokiJU3dLfWDEKgpwCnISC42glL9h4Ca7TRbVaB3mrn0HtarmbTpGyxE9sn7AkWWQrmJa3UeT63p-ZUeS5X2n65OQtEw--2CvOFa11t7H8YJrSq8OUz6Ct-l4j6OJeurC-HEIZ7t4sTRsQ1jgOaAy_orTazyex_Tyk9VFUJLQiV7FdJXhutn9-TKPhac",
+  "download_url_win": "gAAAAABpbtTLWQBCwN-ypNQBglv10K-GJk5YqZq2bEI5DGSgfXawkZEOm7coZhsY5cyLMZhanbxGGTZO8NAyOUZlkOZ0NhF4veGTIBqO8TQLSKPaF8JWSapjxqIQdtCRVXVsgk6u1ThufeD8yPJYAraBwehR-Z1s2TBjsCWfShbM032QLZ1Tz_i7YQNc4uzP9WGLF8eJiPdX",
   "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
-  "pin_hash": "d54dcbadbb932a613c8451c29664d09b409cc5755e8b915cd85481372ccff0c1",
-  "pin_salt": "AQk7jzLHc0Gx/0c5ASTfVQ==",
-  "encryption_salt": "whYpvsgWcXhXjuBrTm/CPgl1JuvwbMGazCSUbiBPqGU=",
-  "download_url_mac_encrypted": "gAAAAABpbswFBtXCQJDkADfpw0SpAFxdxPEvA0yqiR16JjuRXryZikTDnTjET0HChnyfbEm4Gt_fWwcBHjZ0Usjkk1Ej3fXNK9ksId8wM7h6znfWq9MRCq6RlAQl2DD_9IZ7F1fi0ns4jKGFMfdQbU9nBGgc9-5uQXO0d4tbSG61pMKwPH1NOQ16rcohqCxauLJvd2VMxwC5",
-  "download_url_win_encrypted": "gAAAAABpbswFMMKM3CXfLdj8TPE5IS9zYnL7j70gTx_daBzLCR_tdT-9uCMZqn0UYDi2sa0xQq8WhZ6aeM-2aFUgeF4kxwgTOmchtoqMrPlugRduooBnHu47CZnbbleatr95wFbZY60IO5J71pZqxCgnm7Lihd7vlcQ_2YML-okvO9ofKseTokd2m1SOAiWlC-cFUm5qtqdT"
+  "pin_hash": "0630e43d894d55d794635ae768dfb6f6c3528f6e2e7f1d49be3c681d6bfb5b28",
+  "pin_salt": "tahRsU1YzR1CWtigjMlbog==",
+  "encryption_salt": "QKrmsKf3Je1cSffGTvu5gzHmdsXXnMUp5vZ9DqnL3eU="
 }
