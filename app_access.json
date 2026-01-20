@@ -7,15 +7,19 @@
   "invalid_code_message": "Invalid activation code. Please check with your administrator.",
   "success_message": "Activation successful! Welcome to Book.io QuickScripts.",
   "last_updated": "2026-01-07T23:30:00Z",
-
   "error_reporting": {
     "email": "zhanji@book.io",
     "enabled": true,
     "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
   },
-
   "latest_version": "6.0.3",
   "download_url_mac": "https://drive.google.com/uc?export=download&id=1qzT6qSqjMETXv_ArV_Uywohsv1P6y_P1",
   "download_url_win": "https://drive.google.com/uc?export=download&id=14maSfg-EN_QAiXIlT17gJhdBmvvZGvbc",
-  "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs"
+  "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
+  "pin_hash": "d54dcbadbb932a613c8451c29664d09b409cc5755e8b915cd85481372ccff0c1",
+  "pin_salt": "AQk7jzLHc0Gx/0c5ASTfVQ==",
+  "encryption_salt": "whYpvsgWcXhXjuBrTm/CPgl1JuvwbMGazCSUbiBPqGU=",
+  "download_url_mac_encrypted": "gAAAAABpbswFBtXCQJDkADfpw0SpAFxdxPEvA0yqiR16JjuRXryZikTDnTjET0HChnyfbEm4Gt_fWwcBHjZ0Usjkk1Ej3fXNK9ksId8wM7h6znfWq9MRCq6RlAQl2DD_9IZ7F1fi0ns4jKGFMfdQbU9nBGgc9-5uQXO0d4tbSG61pMKwPH1NOQ16rcohqCxauLJvd2VMxwC5",
+  "download_url_win_encrypted": "gAAAAABpbswFMMKM3CXfLdj8TPE5IS9zYnL7j70gTx_daBzLCR_tdT-9uCMZqn0UYDi2sa0xQq8WhZ6aeM-2aFUgeF4kxwgTOmchtoqMrPlugRduooBnHu47CZnbbleatr95wFbZY60IO5J71pZqxCgnm7Lihd7vlcQ_2YML-okvO9ofKseTokd2m1SOAiWlC-cFUm5qtqdT",
+  "admin_email_encrypted": "gAAAAABpbswF0JLkmdZoIhFTDVNjZHBCvJ6n1uABBZ9FyJJ6DkP22W0JKNwjOYTBJYK2N0O-nl8YE1lob3Zlb5gUg4JhA6sAug=="
 }
