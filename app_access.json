@@ -13,10 +13,10 @@
     "email_encrypted": "gAAAAABpbtEET5uZH0vtx_n1m8wkIWRhH_Ih90-pilIgFrkZ3S5DHcmmtTM-WdE-JB62bBO50PH0VeDLB3FzxO7IEX_FG6U4Ww=="
   },
   "latest_version": "6.0.3",
-  "download_url_mac": "gAAAAABpbtTLwMRruokiJU3dLfWDEKgpwCnISC42glL9h4Ca7TRbVaB3mrn0HtarmbTpGyxE9sn7AkWWQrmJa3UeT63p-ZUeS5X2n65OQtEw--2CvOFa11t7H8YJrSq8OUz6Ct-l4j6OJeurC-HEIZ7t4sTRsQ1jgOaAy_orTazyex_Tyk9VFUJLQiV7FdJXhutn9-TKPhac",
-  "download_url_win": "gAAAAABpbtTLWQBCwN-ypNQBglv10K-GJk5YqZq2bEI5DGSgfXawkZEOm7coZhsY5cyLMZhanbxGGTZO8NAyOUZlkOZ0NhF4veGTIBqO8TQLSKPaF8JWSapjxqIQdtCRVXVsgk6u1ThufeD8yPJYAraBwehR-Z1s2TBjsCWfShbM032QLZ1Tz_i7YQNc4uzP9WGLF8eJiPdX",
+  "download_url_mac": "gAAAAABpbtkIpFIPNowWuOwF4sHM_ARuE7twdGNh9a2QVo47FY8dfxttBlPvOHAcCyDDfJrCcUTytHhbSmoLQkIzFG56iz1LfH0uBsyJ9FETsaq51nB325Fjg-mYr2dG86by-5vshcdtJkxtKEjDgMn3YesiR55wU-1sRVfGPEvP9gg6iZY11dnfVYFTmlAtVmgstqUOjJR2",
+  "download_url_win": "gAAAAABpbtkIBmwH2mWaX2cZtf5o11zdNnupyhe1Ug80UphYcjnRleMHG1V0-oV58gvtN4emO7f-y3lVR4cYIrREYjwLG04ENA0su4uHi5cCeAf5IQl_ld9sz_AfWzNzXZ1d1aou_GD8Gc_M3bnDH8fHnlC81rctWutQQqU2S3HT1pjFZobbIxM2GYUDCJhmx1KowJODz43S",
   "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
-  "pin_hash": "0630e43d894d55d794635ae768dfb6f6c3528f6e2e7f1d49be3c681d6bfb5b28",
-  "pin_salt": "tahRsU1YzR1CWtigjMlbog==",
-  "encryption_salt": "QKrmsKf3Je1cSffGTvu5gzHmdsXXnMUp5vZ9DqnL3eU="
+  "pin_hash": "c7a145c9156ade1a83c12c0fd5366bd1999727bf06983a03ceb1b6bf3049d462",
+  "pin_salt": "ntW53CHWIfsH8ARsA+HVKw==",
+  "encryption_salt": "5R+99ERHoVQpbeIPS4C6zmI0YdTj+6OBBQLxVUT5gVk="
 }
