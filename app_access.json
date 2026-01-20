@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "activation_code": "book.io2026",
+  "activation_code": null,
   "min_app_version": "6.0.2",
   "block_message": "This app version is no longer supported. Please contact your administrator for the latest version.",
   "activation_prompt": "Enter your activation code to use Book.io QuickScripts:",
@@ -14,8 +14,8 @@
     "email_encrypted": "gAAAAABpbtEET5uZH0vtx_n1m8wkIWRhH_Ih90-pilIgFrkZ3S5DHcmmtTM-WdE-JB62bBO50PH0VeDLB3FzxO7IEX_FG6U4Ww=="
   },
   "latest_version": "6.0.3",
-  "download_url_mac": "https://drive.google.com/uc?export=download&id=1qzT6qSqjMETXv_ArV_Uywohsv1P6y_P1",
-  "download_url_win": "https://drive.google.com/uc?export=download&id=14maSfg-EN_QAiXIlT17gJhdBmvvZGvbc",
+  "download_url_mac": null,
+  "download_url_win": null,
   "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
   "pin_hash": "d54dcbadbb932a613c8451c29664d09b409cc5755e8b915cd85481372ccff0c1",
   "pin_salt": "AQk7jzLHc0Gx/0c5ASTfVQ==",
