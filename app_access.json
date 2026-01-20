@@ -8,9 +8,10 @@
   "success_message": "Activation successful! Welcome to Book.io QuickScripts.",
   "last_updated": "2026-01-07T23:30:00Z",
   "error_reporting": {
-    "email": "zhanji@book.io",
+    "email": null,
     "enabled": true,
-    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
+    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI=",
+    "email_encrypted": "gAAAAABpbtB4MU0Pgxij1SnnhAxhbBX239Ca5fQWceaL8qmHGfJvovWE1o3bq5uTspLtWlo5z5YBZCC3bc_goMU6DDT6qplkug=="
   },
   "latest_version": "6.0.3",
   "download_url_mac": "https://drive.google.com/uc?export=download&id=1qzT6qSqjMETXv_ArV_Uywohsv1P6y_P1",
