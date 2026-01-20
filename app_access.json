@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "activation_code": "book.io2026",
+  "activation_code": null,
   "min_app_version": "6.0.2",
   "block_message": "This app version is no longer supported. Please contact your administrator for the latest version.",
   "activation_prompt": "Enter your activation code to use Book.io QuickScripts:",
@@ -8,18 +8,17 @@
   "success_message": "Activation successful! Welcome to Book.io QuickScripts.",
   "last_updated": "2026-01-07T23:30:00Z",
   "error_reporting": {
-    "email": null,
+    "email": "zhanji@book.io",
     "enabled": true,
-    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI=",
-    "email_encrypted": "gAAAAABpbtB4MU0Pgxij1SnnhAxhbBX239Ca5fQWceaL8qmHGfJvovWE1o3bq5uTspLtWlo5z5YBZCC3bc_goMU6DDT6qplkug=="
+    "smtp_password_encrypted": "gAAAAABpXFEjS4RD3Ef-8OkFhh3R91fNWO15ZkmQH-I9x2dnbtD787XwF4ZLGhwT7YYikV5YQMZTyFRKCS7bkngHPICOWDAm3vwXhcnY8Mraj9ug6SVm0tI="
   },
   "latest_version": "6.0.3",
-  "download_url_mac": "https://drive.google.com/uc?export=download&id=1qzT6qSqjMETXv_ArV_Uywohsv1P6y_P1",
-  "download_url_win": "https://drive.google.com/uc?export=download&id=14maSfg-EN_QAiXIlT17gJhdBmvvZGvbc",
+  "download_url_mac": null,
+  "download_url_win": null,
   "release_notes": "Version 6.0.3 - Auto-download updates, system tray integration, year rotation manager, enhanced dialogs",
-  "pin_hash": "d54dcbadbb932a613c8451c29664d09b409cc5755e8b915cd85481372ccff0c1",
-  "pin_salt": "AQk7jzLHc0Gx/0c5ASTfVQ==",
-  "encryption_salt": "whYpvsgWcXhXjuBrTm/CPgl1JuvwbMGazCSUbiBPqGU=",
-  "download_url_mac_encrypted": "gAAAAABpbswFBtXCQJDkADfpw0SpAFxdxPEvA0yqiR16JjuRXryZikTDnTjET0HChnyfbEm4Gt_fWwcBHjZ0Usjkk1Ej3fXNK9ksId8wM7h6znfWq9MRCq6RlAQl2DD_9IZ7F1fi0ns4jKGFMfdQbU9nBGgc9-5uQXO0d4tbSG61pMKwPH1NOQ16rcohqCxauLJvd2VMxwC5",
-  "download_url_win_encrypted": "gAAAAABpbswFMMKM3CXfLdj8TPE5IS9zYnL7j70gTx_daBzLCR_tdT-9uCMZqn0UYDi2sa0xQq8WhZ6aeM-2aFUgeF4kxwgTOmchtoqMrPlugRduooBnHu47CZnbbleatr95wFbZY60IO5J71pZqxCgnm7Lihd7vlcQ_2YML-okvO9ofKseTokd2m1SOAiWlC-cFUm5qtqdT"
+  "pin_hash": "0bbcea46c7e9ba96ae59aa316011bd34b56d3f2c9c5bb3757e74396dd74bfb3d",
+  "pin_salt": "kFQjBEQb97uMx+G1zTDlNw==",
+  "encryption_salt": "n8WeAikWR6jmzOWfGI/7Bs1US9KZFal7fHcxJIgbje0=",
+  "download_url_mac_encrypted": "gAAAAABpbtDcV81oCblmjC5_a7vNgPatjtijBQ_OLRq20lofppB8h2wujStrkrbeUbZ1afz14PAe0Vuz5ubrzezG6w4zjrljj9OXZnDnD7bKFlODiNn9ZAG3AixG4hhmcXfiBaM4eZgGrbSH9U1CeXb15tGg1lHxjiRNeD8CUgJoZ_wk257OhLd4R3HrQ2CYLlyQDwnl71J2",
+  "download_url_win_encrypted": "gAAAAABpbtDcGeRqMN_BAC0LgKKVrrRHnYCn7IMpBDbREJqiG3Th7yUdWTdUL93VgzmCchmQmBt17aoi3b80qI3VL1r-82X3negkahjv664aqNLJvmPj9KsgG523UgLi1nq021VPmgcuvoZjZgGP2Sbhfe0qy2f27k6HAZsVBahbP9hW7bFfmunF4mfLTdQon9Zgyg42KIrw"
 }
