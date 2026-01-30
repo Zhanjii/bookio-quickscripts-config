@@ -456,6 +456,28 @@
             "2x3": false,
             "16x9": true
           }
+        },
+        {
+          "name": "BOOK POSTER 2x3",
+          "enabled": true,
+          "order": 14,
+          "folder": "BOOK_POSTER_2x3",
+          "pattern": null,
+          "aspect_ratio": "2x3",
+          "color": null,
+          "font_color": "#0a1425",
+          "bg_color": "#ffffff",
+          "logo": "Book.io",
+          "side_text": "EBOOK",
+          "description": "ebook poster",
+          "ai_title": true,
+          "text_title": false,
+          "sticker": null,
+          "aspect_ratios": {
+            "1x1": false,
+            "2x3": true,
+            "16x9": false
+          }
         }
       ]
     },
@@ -533,5 +555,5 @@
       ]
     }
   },
-  "last_updated": "2025-12-01T17:31:20.420402"
+  "last_updated": "2026-01-30T14:44:09.058030"
 }
