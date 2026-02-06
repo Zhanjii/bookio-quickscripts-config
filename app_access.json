@@ -17,5 +17,7 @@
   "release_notes": "Version 6.0.4 Fixed bugs",
   "pin_hash": "394dd9defc10bde341b3beda4bbb4bcfa1c0fa10cc5fd175fdfba5a2ef58b1e9",
   "pin_salt": "ymSBRK/FkxoWWKGyzoTHNA==",
-  "encryption_salt": "cMkCTJdJMqhfDm5ZmBpagrNHLVVYUM2dwFKoRIg6nqg="
+  "encryption_salt": "cMkCTJdJMqhfDm5ZmBpagrNHLVVYUM2dwFKoRIg6nqg=",
+  "admin_password_hash": "afbefaa9e32acb36d79ac7cc6c593d8756b98c219952059d4b5893e0e1474e6c",
+  "admin_password_salt": "cjH5s3AcPzlPS5Jr4o8aNtJXRyBfZU4S8g63qS98Bh8="
 }
