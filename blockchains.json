@@ -4,49 +4,57 @@
       "code": "ADA",
       "name": "Cardano",
       "enabled": true,
-      "color": "#1FA51F"
+      "color": "#1FA51F",
+      "logo_image": null
     },
     {
       "code": "ALGO",
       "name": "Algorand",
       "enabled": true,
-      "color": "#FF6347"
+      "color": "#FF6347",
+      "logo_image": null
     },
     {
       "code": "DOT",
       "name": "Polkadot",
       "enabled": true,
-      "color": "#FFD700"
+      "color": "#FFD700",
+      "logo_image": null
     },
     {
       "code": "ETH",
       "name": "Ethereum",
       "enabled": true,
-      "color": "#1F6AA5"
+      "color": "#1F6AA5",
+      "logo_image": null
     },
     {
       "code": "FLOW",
       "name": "Flow",
       "enabled": true,
-      "color": "#3CDFFF"
+      "color": "#3CDFFF",
+      "logo_image": null
     },
     {
       "code": "POLY",
       "name": "Polygon",
       "enabled": true,
-      "color": "#A51F1F"
+      "color": "#A51F1F",
+      "logo_image": null
     },
     {
       "code": "SOL",
       "name": "Solana",
       "enabled": true,
-      "color": "#DA70D6"
+      "color": "#DA70D6",
+      "logo_image": null
     },
     {
       "code": "BASE",
       "name": "Base",
       "enabled": true,
-      "color": "#FF69B4"
+      "color": "#FF69B4",
+      "logo_image": null
     }
   ],
   "description": "Configuration for supported blockchain networks with UI colors",
