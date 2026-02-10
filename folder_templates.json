@@ -1,36 +1,11 @@
 {
   "template_categories": {
-    "render_directory": {
-      "name": "Render Directory Templates",
-      "description": "Test render templates",
-      "templates": [
-        {
-          "name": "Bot Titles",
-          "enabled": true,
-          "order": 1,
-          "folder": null,
-          "pattern": "01_{blockchain}_bot_titles",
-          "aspect_ratio": null,
-          "color": "#1FA51F",
-          "font_color": null,
-          "bg_color": null,
-          "logo": null
-        },
-        {
-          "name": "Top Titles",
-          "enabled": true,
-          "order": 2,
-          "folder": null,
-          "pattern": "02_{blockchain}_top_titles",
-          "aspect_ratio": null,
-          "color": "#1F6AA5",
-          "font_color": null,
-          "bg_color": null,
-          "logo": null
-        }
-      ]
+    "test_category": {
+      "name": "Test Category",
+      "description": "Test",
+      "templates": []
     }
   },
   "description": "Test config",
-  "last_updated": "2026-02-09T17:46:24.621555"
+  "last_updated": "2026-02-09T18:15:31.654827"
 }
