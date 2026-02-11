@@ -3,7 +3,20 @@
     "test_category": {
       "name": "Test Category",
       "description": "Test",
-      "templates": []
+      "templates": [
+        {
+          "name": "New Template",
+          "enabled": true,
+          "order": 99,
+          "folder": "NEW_FOLDER",
+          "pattern": null,
+          "aspect_ratio": null,
+          "color": null,
+          "font_color": null,
+          "bg_color": null,
+          "logo": null
+        }
+      ]
     },
     "companies": {
       "name": "Companies",
@@ -58,6 +71,6 @@
     }
   },
   "description": "Test config",
-  "last_updated": "2026-02-10T23:34:22.550088",
+  "last_updated": "2026-02-11T00:26:03.400901",
   "schema_version": 2
 }
