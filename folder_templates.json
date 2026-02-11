@@ -3,74 +3,9 @@
     "test_category": {
       "name": "Test Category",
       "description": "Test",
-      "templates": [
-        {
-          "name": "New Template",
-          "enabled": true,
-          "order": 99,
-          "folder": "NEW_FOLDER",
-          "pattern": null,
-          "aspect_ratio": null,
-          "color": null,
-          "font_color": null,
-          "bg_color": null,
-          "logo": null
-        }
-      ]
-    },
-    "companies": {
-      "name": "Companies",
-      "description": "Company brands for logo assignment in book types",
-      "templates": [
-        {
-          "name": "Book.io",
-          "enabled": true,
-          "order": 1,
-          "folder": null,
-          "pattern": null,
-          "aspect_ratio": null,
-          "color": null,
-          "font_color": null,
-          "bg_color": null,
-          "logo": null,
-          "sticker": null,
-          "logo_image": null,
-          "sticker_image": null
-        },
-        {
-          "name": "Stuff.io",
-          "enabled": true,
-          "order": 2,
-          "folder": null,
-          "pattern": null,
-          "aspect_ratio": null,
-          "color": null,
-          "font_color": null,
-          "bg_color": null,
-          "logo": null,
-          "sticker": null,
-          "logo_image": null,
-          "sticker_image": null
-        },
-        {
-          "name": "None",
-          "enabled": true,
-          "order": 3,
-          "folder": null,
-          "pattern": null,
-          "aspect_ratio": null,
-          "color": null,
-          "font_color": null,
-          "bg_color": null,
-          "logo": null,
-          "sticker": null,
-          "logo_image": null,
-          "sticker_image": null
-        }
-      ]
+      "templates": []
     }
   },
   "description": "Test config",
-  "last_updated": "2026-02-11T00:26:03.400901",
-  "schema_version": 2
+  "last_updated": "2026-02-11T00:27:04.613894"
 }
