@@ -1,32 +1,17 @@
 {
   "template_categories": {
-    "render_directory": {
-      "name": "Render Directory Templates",
-      "description": "Test render templates",
+    "approval_directory": {
+      "name": "Approval Directories",
+      "description": "Test approval dirs",
       "templates": [
         {
-          "name": "Bot Titles",
+          "name": "APPROVED",
           "enabled": true,
           "order": 1,
-          "folder": null,
-          "pattern": "01_{blockchain}_bot_titles",
+          "folder": "05_APPROVED",
+          "pattern": null,
           "aspect_ratio": null,
-          "color": "#1FA51F",
-          "font_color": null,
-          "bg_color": null,
-          "logo": null,
-          "logo_image": null,
-          "sticker_image": null,
-          "sticker": null
-        },
-        {
-          "name": "Top Titles",
-          "enabled": true,
-          "order": 2,
-          "folder": null,
-          "pattern": "02_{blockchain}_top_titles",
-          "aspect_ratio": null,
-          "color": "#1F6AA5",
+          "color": null,
           "font_color": null,
           "bg_color": null,
           "logo": null,
@@ -89,6 +74,6 @@
     }
   },
   "description": "Test config",
-  "last_updated": "2026-02-10T23:19:23.114845",
+  "last_updated": "2026-02-10T23:21:04.273948",
   "schema_version": 2
 }
