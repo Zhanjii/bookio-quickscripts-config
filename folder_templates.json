@@ -598,13 +598,13 @@
           "ai_title": true,
           "text_title": false,
           "sticker": null,
+          "logo_image": null,
+          "sticker_image": null,
           "aspect_ratios": {
             "1x1": false,
             "2x3": false,
             "16x9": true
-          },
-          "logo_image": null,
-          "sticker_image": null
+          }
         },
         {
           "name": "EBOOK POSTER 2x3",
@@ -784,6 +784,6 @@
     }
   },
   "description": "Test config",
-  "last_updated": "2026-02-11T00:27:04.613894",
+  "last_updated": "2026-02-12T13:29:10.891315",
   "schema_version": 2
 }
